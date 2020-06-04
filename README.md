@@ -1,6 +1,9 @@
 # Capstone Recording Setup
 This document will serve as a guide on how to best record and present a capstone project, so that being remote will not be a barrier to creating a high-quality capstone project to be seen by employer partners et al.
 
+* [Screen Recording](#screen-recording)
+* [Camera (Presenter) Recording](#camera-presenter-recording)
+
 ## Screen Recording
 During your presentation, you will be using QuickTime Player to record your screen. You can find QuickTime by activating Spotlight (⌘ - space) and typing in **QuickTime Player**, then either double clicking the icon or pressing 'Enter'.
 
@@ -8,4 +11,25 @@ During your presentation, you will be using QuickTime Player to record your scre
 
  Once you open QuickTime, you'll be able to start a new screen recording, by going to the top menu bar and selecting **File -> New Screen Recording**.
  
- ![QuickTime Player New Screen Recording](img/quicktime-player-new-screen-recording.jpg)
+![QuickTime Player New Screen Recording](img/quicktime-player-new-screen-recording.jpg)
+
+Once the next menu pops up, you'll want to be sure to set your microphone, screen you're recording (if multiple monitors attached to your Mac), and a few extra presentation options.
+
+## Camera (Presenter) Recording
+When recording your presentation, you should use your iPhone (or Android phone) mounted to a tripod (if possible), unless you already have a webcam capable of recording at 1080p. The webcams on all Macs are relatively terrible, so you will achieve wildly better quality by using the camera on your phone.
+
+* iPhone at 1080p60 or 4k60 (display settings screen to show how)
+* Android at highest quality (find article showing how to)
+
+### Panel Review expectations:
+* Enter each panel review with the exact background, laptop placement, standing/sitting position, etc. you plan to use during the actual presentation.
+* Approach the panel review as prepared as possible for that specific round so our feedback is valuable and effective.
+ 
+### Presentation expectations:
+* **Memorize your script!** While you will be recording your presentation, you still want to have your script memorized so your presentation is smooth and your eyes aren’t shifting down to a script.
+* **Dress attire** - Wear the complete professional ensemble you would have worn for the in-person DD. If you’d like, you may wear the exact outfit you wore for your professional headshots. There is no need to purchase a $200+ outfit for this!
+* **NO greenscreens!** Choose a soft, solid color as your background; think of a wall in your house as a backdrop.
+* **Remove potential background distractions** - try to avoid messy rooms, beds, ceiling fans, animals, etc.
+* **Turn off all phone/laptop notifications.** We don’t want any interruptions bc of pings, rings, and vibration sounds.
+* **Clean your camera lens** - run a microfiber cloth over the camera you will be using to record.
+* **Stand up while presenting, if possible.** If standing up, please make sure the camera is eye level, if not a bit above eye level. DO NOT stand up if the camera will be angled up at your face, highlighting your chin. Sit down and elevate the camera as necessary to be eye level.
