@@ -25,6 +25,10 @@ When recording your presentation, you should use your iPhone (or Android phone) 
 * iPhone at 1080p60 or 4k60 (display settings screen to show how)
 * Android at highest quality (find article showing how to)
 
+## Lighting
+
+To ensure the best video for your presentation, make sure that your face is evenly lighted in the frame of the video. If you have a window lighting up the left side of your face, but not the right, your lighting will become distracting to the viewer. If you have to put a desk lamp on the floor in front of you to even out the lighting (or on a table in front of you) - go for it! Good lighting makes a decent video into a fantastic one.
+
 ### Panel Review expectations:
 * Enter each panel review with the exact background, laptop placement, standing/sitting position, etc. you plan to use during the actual presentation.
 * Approach the panel review as prepared as possible for that specific round so our feedback is valuable and effective.
