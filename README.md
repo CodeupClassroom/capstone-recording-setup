@@ -22,8 +22,8 @@ Once the next menu pops up, you'll want to be sure to set your microphone, scree
 ## Camera (Presenter) Recording
 When recording your presentation, you should use your iPhone (or Android phone) mounted to a tripod (if possible), unless you already have a webcam capable of recording at 1080p. The webcams on all Macs are relatively terrible, so you will achieve wildly better quality by using the camera on your phone.
 
-* iPhone at 1080p60 or 4k60 (display settings screen to show how)
-* Android at highest quality (find article showing how to)
+* iPhone at 1080p60 or 4k60 [Apple Support Article with Explanation](https://support.apple.com/en-us/HT209431)
+* Android at highest quality [Support Article showing how to max out Android camera quality](https://www.dummies.com/consumer-electronics/tablets/android-tablets/how-to-change-the-resolution-on-your-android-tablets-camera/)
 
 ## Lighting
 
