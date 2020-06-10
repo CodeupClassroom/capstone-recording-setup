@@ -15,9 +15,8 @@ During your presentation, you will be using QuickTime Player to record your scre
 
 Once the next menu pops up, you'll want to be sure to set your microphone, screen you're recording (if multiple monitors attached to your Mac), and a few extra presentation options.
 
-* _Screenshot of recording options_
-* _Screenshot of which display to record_
-* _Extra screenshot, if necessary_
+![Choosing Monitor to Record](img/QuickTime-Screen-Selection.jpg)
+
 
 ## Camera (Presenter) Recording
 When recording your presentation, you should use your iPhone (or Android phone) mounted to a tripod (if possible), unless you already have a webcam capable of recording at 1080p. The webcams on all Macs are relatively terrible, so you will achieve wildly better quality by using the camera on your phone.
