@@ -28,6 +28,13 @@ When recording your presentation, you should use your iPhone (or Android phone) 
 
 To ensure the best video for your presentation, make sure that your face is evenly lighted in the frame of the video. If you have a window lighting up the left side of your face, but not the right, your lighting will become distracting to the viewer. If you have to put a desk lamp on the floor in front of you to even out the lighting (or on a table in front of you) - go for it! Good lighting makes a decent video into a fantastic one.
 
+## Sound (Microphone)
+When recording your narration video, you'll be using the built-in microphone of your cell phone / camera. It's important to note that **AirPods microphone quality is very bad**. The microphone in AirPods is only capable of recording 16-bit at 8kHz, while the built-in Mic on your Mac can likely record up to 32-bit at 96kHz.
+
+**DO NOT USE AIRPODS FOR RECORDING AUDIO DURING YOUR SCREENCASTS**
+
+Even if you're going to be using AirPods for monitoring audio, be sure to **change the microphone to your Mac built-in mic** when recording your screencast with QuickTime.
+
 ### Panel Review expectations:
 * Enter each panel review with the exact background, laptop placement, standing/sitting position, etc. you plan to use during the actual presentation.
 * Approach the panel review as prepared as possible for that specific round so our feedback is valuable and effective.
